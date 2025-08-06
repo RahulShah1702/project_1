@@ -43,9 +43,9 @@ npm install
 - Add your MongoDB URI:
 
 ```
-MONGODB_URI=mongodb+srv://username:<yourpassword>@cluster0.snajylk.mongodb.net/volunteerApp?retryWrites=true&#x26;w=majority</yourpassword>
+MONGODB_URI=mongodb+srv://<username>:<yourpassword>@cluster0.snajylk.mongodb.net/volunteerApp?retryWrites=true&#x26;w=majority</yourpassword>
 ```
-(Replace `<yourPassword>` with your MongoDB password.)
+(Replace `<username>,<yourPassword>` with your MongoDB username password.)
 
 ### Running Locally
 1. Start the backend:
