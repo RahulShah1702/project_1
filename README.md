@@ -69,8 +69,9 @@ npm run dev
 <img width="1889" height="879" alt="Screenshot 2025-08-06 184911" src="https://github.com/user-attachments/assets/05c81cf0-15ec-487e-b8d8-b2e6841b6ba0" />
 
 ### Admin Login Page
-<img width="1910" height="821" alt="Screenshot 2025-08-07 022546" src="https://github.com/user-attachments/assets/1c6f78a1-4cd4-475f-bf8e-6b5dd2cad942" />
+<img width="1911" height="927" alt="Screenshot 2025-08-07 030518" src="https://github.com/user-attachments/assets/4d3f7a62-c11c-4baa-be66-9c8e09d52bdf" />
 
 ### Admin Dashboard Page
-<img width="1874" height="927" alt="Screenshot 2025-08-07 022813" src="https://github.com/user-attachments/assets/9bd1cac1-382d-41fe-a7d1-df55f84a7f29" />
+<img width="1915" height="919" alt="Screenshot 2025-08-07 022837" src="https://github.com/user-attachments/assets/ab1358d8-c67b-4a28-b2bf-3df2e97565eb" />
+
 
