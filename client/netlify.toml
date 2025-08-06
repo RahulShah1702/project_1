@@ -6,4 +6,4 @@
   from = "/api/*"
   to = "https://your-render-app.onrender.com/api/:splat"
   status = 200
-  force = truegit
+  force = true
