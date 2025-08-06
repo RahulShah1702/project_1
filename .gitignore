@@ -1,0 +1,4 @@
+.env/
+hashPassword.js/
+node_modules/
+dist/
