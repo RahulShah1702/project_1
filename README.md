@@ -63,13 +63,14 @@ npm run dev
 ##Screenshots
 
 ### Home Page
-<img width="1912" height="933" alt="Screenshot 2025-08-07 022525" src="https://github.com/user-attachments/assets/98462aad-f796-4f3c-b7d2-c8ecf9981eac" />
+<img width="1914" height="911" alt="Screenshot 2025-08-06 232736" src="https://github.com/user-attachments/assets/a7e73688-fbbd-4865-8990-296b7ede1b79" />
 
 ### Register Page
-<img width="1910" height="821" alt="Screenshot 2025-08-07 022546" src="https://github.com/user-attachments/assets/a8cedd86-43f0-44ea-b23e-eeb87dbfeb41" />
+<img width="1889" height="879" alt="Screenshot 2025-08-06 184911" src="https://github.com/user-attachments/assets/05c81cf0-15ec-487e-b8d8-b2e6841b6ba0" />
 
 ### Admin Login Page
-<img width="1874" height="927" alt="Screenshot 2025-08-07 022813" src="https://github.com/user-attachments/assets/6ef3f642-59d0-405f-9b95-b7567fa2c248" />
+<img width="1910" height="821" alt="Screenshot 2025-08-07 022546" src="https://github.com/user-attachments/assets/1c6f78a1-4cd4-475f-bf8e-6b5dd2cad942" />
 
 ### Admin Dashboard Page
-<img width="1915" height="919" alt="Screenshot 2025-08-07 022837" src="https://github.com/user-attachments/assets/775119f2-5399-4e4c-b4b3-849593334d81" />
+<img width="1874" height="927" alt="Screenshot 2025-08-07 022813" src="https://github.com/user-attachments/assets/9bd1cac1-382d-41fe-a7d1-df55f84a7f29" />
+
