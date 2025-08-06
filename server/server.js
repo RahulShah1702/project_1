@@ -8,7 +8,7 @@ const authRoutes = require('./routes/auth');
 const app = express();
 const port = process.env.PORT || 5000;
 
-app.use(cors({ origin: process.env.ORIGIN }));
+app.use(cors({ origin: 'https://volunteer-web-app.netlify.app' }));
 app.use(express.json());
 
 mongoose.connect(process.env.MONGODB_URI, {
