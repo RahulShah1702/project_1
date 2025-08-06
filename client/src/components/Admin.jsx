@@ -7,9 +7,9 @@ const AdminPage = () => {
   const fetchApplicants = async () => {
     try {
       const token = localStorage.getItem('token');
-      const response = await axios.get('http://localhost:5000/api/applicants', {
-        headers: { Authorization: `Bearer ${token}` }
-      });
+      const response = await axios.get('https://your-app.onrender.com/api/applicants', {
+      headers: { Authorization: `Bearer ${token}` }
+  });
       setApplicants(response.data);
     } catch (err) {
       console.error('Error fetching applicants:', err);
