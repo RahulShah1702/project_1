@@ -7,7 +7,7 @@ const AdminPage = () => {
   const fetchApplicants = async () => {
     try {
       const token = localStorage.getItem('token');
-      const response = await axios.get('https://your-app.onrender.com/api/applicants', {
+      const response = await axios.get('https://volunteer-app-aoe8.onrender.com/api/applicants', {
       headers: { Authorization: `Bearer ${token}` }
   });
       setApplicants(response.data);
