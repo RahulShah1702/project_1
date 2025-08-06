@@ -23,7 +23,7 @@ Welcome to the Volunteer App! This is a simple web application to manage volunte
 ```
 git clone https://github.com/RahulShah1702/project_1.git
 cd project_1
-````
+```
 
 2. Install backend dependencies:
 ```
@@ -55,14 +55,15 @@ cd server
 npm start
 ```
 2. Start the frontend:
-
+```
 cd ../client
 npm run dev
+```
 
 ##Screenshots
 
 ### Home Page
-![alt text](<Screenshot 2025-08-07 022525.png>)
+
 
 ### Register Page
 ![alt text](<Screenshot 2025-08-07 022546.png>)
